@@ -1,3 +1,5 @@
+[![GitHub forks](https://img.shields.io/github/forks/saviomartin/zoom-clone?style=for-the-badge)](https://github.com/saviomartin/zoom-clone/network) [![GitHub issues](https://img.shields.io/github/issues/saviomartin/zoom-clone?style=for-the-badge)](https://github.com/saviomartin/zoom-clone/issues) [![GitHub stars](https://img.shields.io/github/stars/saviomartin/zoom-clone?style=for-the-badge) ![GitHub license](https://img.shields.io/github/license/saviomartin/zoom-clone?style=for-the-badge)](https://github.com/saviomartin/zoom-clone/blob/main/LICENSE)
+
 # Node JS Zoom Clone
 
 This is a simple web video chat app with all the feature of a standard chat app like zoom or google meet.
