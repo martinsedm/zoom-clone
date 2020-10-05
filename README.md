@@ -13,15 +13,19 @@ It is live [https://heromeet.herokuapp.com/](https://heromeet.herokuapp.com/)
 
 ## Build
 1. Clone the repo
+
 `gh repo clone saviomartin/zoom-clone`
 
 2. Installing Dependencies
+
 `npm install`
 
 3. Starting server
+
 `npm start`
 
 > make sure that the peer js port is 3030 on localhost
+
 > for hosting, change the port to 443
 
 ## Contributing
